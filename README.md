@@ -32,6 +32,12 @@ You can run the code in path `./` with the following script:
 
 Of course there are other command line arguments which are listed in `main.py`. 
 
+## Data
+
+We provide cora dataset as an example under `data/cora`. For other datasets like citeseer and aminer, you can find them via google and preprocess them according to the format. 
+
+Note that the `data/cora/features.npy` has undergone a dimensionality reduction via PCA, and is not identical to the original cora features. 
+
 ## Cite
 
 ```
