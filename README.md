@@ -41,15 +41,13 @@ Note that the `data/cora/features.npy` has undergone a dimensionality reduction 
 ## Cite
 
 ```
-@article{jin2019gralsp,
-  title={GraLSP: Graph Neural Networks with Local Structural Patterns},
+@inproceedings{jin2020gralsp,
+  title={GraLSP: Graph Neural Networks with Local Structural Patterns.},
   author={Jin, Yilun and Song, Guojie and Shi, Chuan},
-  journal={arXiv preprint arXiv:1911.07675},
-  year={2019}
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  pages={4361--4368},
+  year={2020}
 }
 ```
 
 If you use related codes or mention our work, you can cite us via the above bibtex. 
-
-The formal bibtex will be provided after the conference proceedings. 
-
